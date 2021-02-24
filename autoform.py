@@ -1,5 +1,5 @@
 #testando git
-print("HELLO PATRECO")
+print("HELLO Pedreco")
 
 print("teste teste tes")
-print('testando outro')
+print('testando outro bunda')
